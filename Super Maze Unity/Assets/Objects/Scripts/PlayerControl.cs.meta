@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a814e725fd8fa58408e97fe22c736a4f
+timeCreated: 1473641141
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - holding: {instanceID: 0}
+  - shardBlue: {fileID: 11499690, guid: 641221bc1a27f7a45bd113ff185dc14a, type: 2}
+  - shardRed: {fileID: 11422872, guid: fa7a6ed384e125a428bf800df63d04fa, type: 2}
+  - shardGreen: {fileID: 11406238, guid: 1a86cc81b1c0ceb40a8810079749143a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

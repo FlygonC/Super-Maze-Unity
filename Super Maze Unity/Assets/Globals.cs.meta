@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce26fdec279eaaf43a4bb834973dd846
+timeCreated: 1476052070
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TrapFactoryBG: {fileID: 21300000, guid: 2bc1c4dc16149b44eb7d39c395598d88, type: 3}
+  - CloudySkyBG: {fileID: 21300000, guid: 10ae7f838236d7c469b8f8a1b5bf3476, type: 3}
+  - SpookyBG: {fileID: 21300000, guid: 8cf3c352c8dffe143aee256194a8e352, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
